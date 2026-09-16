@@ -1,0 +1,74 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="第 1 页" id="s4WaEnU1X7UYkyO46y8a">
+    <mxGraphModel dx="1367" dy="546" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="5-CPdZpGIfMYbvOq0gj4-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="120" width="390" x="544" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="fbcM8jCDt51VoKTFv7-8-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="对接联调" vertex="1">
+          <mxGeometry height="60" width="120" x="100" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="fbcM8jCDt51VoKTFv7-8-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="测试环境" vertex="1">
+          <mxGeometry height="60" width="120" x="320" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="fbcM8jCDt51VoKTFv7-8-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="触发消息通知服务" vertex="1">
+          <mxGeometry height="60" width="120" x="574" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="fbcM8jCDt51VoKTFv7-8-4" parent="1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick" value="已完成" vertex="1">
+          <mxGeometry height="50" width="40" x="170" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="fbcM8jCDt51VoKTFv7-8-5" parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.67;dx=20;notch=0;" value="" vertex="1">
+          <mxGeometry height="30" width="100" x="220" y="265" as="geometry" />
+        </mxCell>
+        <mxCell id="fbcM8jCDt51VoKTFv7-8-6" parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.67;dx=20;notch=0;" value="" vertex="1">
+          <mxGeometry height="30" width="100" x="440" y="265" as="geometry" />
+        </mxCell>
+        <mxCell id="fbcM8jCDt51VoKTFv7-8-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#00FF80;" value="各项目测试环境产生的发送短信流量" vertex="1">
+          <mxGeometry height="40" width="120" x="320" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="fbcM8jCDt51VoKTFv7-8-8" edge="1" parent="1" source="fbcM8jCDt51VoKTFv7-8-7" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#00FF80;rounded=0;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fbcM8jCDt51VoKTFv7-8-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" value="分配正式环境测试流量，目的是验证通道稳定性" vertex="1">
+          <mxGeometry height="50" width="130" x="545" y="145" as="geometry" />
+        </mxCell>
+        <mxCell id="fbcM8jCDt51VoKTFv7-8-10" edge="1" parent="1" source="fbcM8jCDt51VoKTFv7-8-9" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="610" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5-CPdZpGIfMYbvOq0gj4-6" edge="1" parent="1" source="fbcM8jCDt51VoKTFv7-8-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="fbcM8jCDt51VoKTFv7-8-2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fbcM8jCDt51VoKTFv7-8-11" parent="1" style="shape=partialRectangle;whiteSpace=wrap;html=1;top=0;bottom=0;fillColor=none;" value="供应商比例：&lt;div&gt;联麓：壹通道=1:1&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="120" x="320" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="fbcM8jCDt51VoKTFv7-8-15" parent="1" style="shape=partialRectangle;whiteSpace=wrap;html=1;top=0;bottom=0;fillColor=none;" value="供应商比例：&lt;div&gt;梦网：漫道：联麓：壹通道=45:45:5:5&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="675" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="5-CPdZpGIfMYbvOq0gj4-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="触发验证码服务" vertex="1">
+          <mxGeometry height="60" width="120" x="794" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="5-CPdZpGIfMYbvOq0gj4-2" parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.67;dx=20;notch=0;" value="" vertex="1">
+          <mxGeometry height="30" width="100" x="694" y="265" as="geometry" />
+        </mxCell>
+        <mxCell id="5-CPdZpGIfMYbvOq0gj4-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;rounded=0;" value="正式环境" vertex="1">
+          <mxGeometry height="20" width="85" x="696.5" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="5-CPdZpGIfMYbvOq0gj4-5" edge="1" parent="1" source="fbcM8jCDt51VoKTFv7-8-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.478;entryY=0.99;entryDx=0;entryDy=0;entryPerimeter=0;" target="5-CPdZpGIfMYbvOq0gj4-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5-CPdZpGIfMYbvOq0gj4-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=#808080;fontSize=10;" value="&lt;font&gt;先调整消息比例&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="105" x="581.5" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="5-CPdZpGIfMYbvOq0gj4-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=#808080;fontSize=10;" value="&lt;font&gt;在调整验证码比例&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="105" x="801.5" y="310" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
