@@ -1,19 +1,19 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="s4WaEnU1X7UYkyO46y8a">
-    <mxGraphModel dx="1652" dy="659" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1367" dy="546" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="5-CPdZpGIfMYbvOq0gj4-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
+        <mxCell id="5-CPdZpGIfMYbvOq0gj4-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="" vertex="1">
           <mxGeometry height="120" width="390" x="544" y="220" as="geometry" />
         </mxCell>
-        <mxCell id="fbcM8jCDt51VoKTFv7-8-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="对接联调" vertex="1">
+        <mxCell id="fbcM8jCDt51VoKTFv7-8-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" value="对接联调" vertex="1">
           <mxGeometry height="60" width="120" x="100" y="250" as="geometry" />
         </mxCell>
-        <mxCell id="fbcM8jCDt51VoKTFv7-8-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="测试环境" vertex="1">
+        <mxCell id="fbcM8jCDt51VoKTFv7-8-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" value="测试环境" vertex="1">
           <mxGeometry height="60" width="120" x="320" y="250" as="geometry" />
         </mxCell>
-        <mxCell id="fbcM8jCDt51VoKTFv7-8-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="触发消息通知服务" vertex="1">
+        <mxCell id="fbcM8jCDt51VoKTFv7-8-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" value="触发消息通知服务" vertex="1">
           <mxGeometry height="60" width="120" x="574" y="250" as="geometry" />
         </mxCell>
         <mxCell id="fbcM8jCDt51VoKTFv7-8-4" parent="1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick;strokeColor=#00FF00;" value="已完成" vertex="1">
@@ -33,7 +33,7 @@
             <mxPoint x="380" y="250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fbcM8jCDt51VoKTFv7-8-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" value="分配正式环境测试流量，目的是验证通道稳定性" vertex="1">
+        <mxCell id="fbcM8jCDt51VoKTFv7-8-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" value="分配正式环境测试流量，需要部分流量验证通道稳定性" vertex="1">
           <mxGeometry height="50" width="130" x="674" y="120" as="geometry" />
         </mxCell>
         <mxCell id="fbcM8jCDt51VoKTFv7-8-10" edge="1" parent="1" source="fbcM8jCDt51VoKTFv7-8-9" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="5-CPdZpGIfMYbvOq0gj4-4" value="">
@@ -47,16 +47,16 @@
         <mxCell id="fbcM8jCDt51VoKTFv7-8-11" parent="1" style="shape=partialRectangle;whiteSpace=wrap;html=1;top=0;bottom=0;fillColor=none;" value="供应商比例：&lt;div&gt;联麓：壹通道=1:1&lt;/div&gt;" vertex="1">
           <mxGeometry height="70" width="120" x="320" y="330" as="geometry" />
         </mxCell>
-        <mxCell id="fbcM8jCDt51VoKTFv7-8-15" parent="1" style="shape=partialRectangle;whiteSpace=wrap;html=1;top=0;bottom=0;fillColor=none;" value="&lt;span style=&quot;color: rgb(255, 0, 0);&quot;&gt;&lt;b&gt;供应商比例：&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(255, 0, 0);&quot;&gt;&lt;b&gt;梦网：漫道：联麓：壹通道=&lt;font style=&quot;font-size: 14px;&quot;&gt;45:45:5:5&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="fbcM8jCDt51VoKTFv7-8-15" parent="1" style="shape=partialRectangle;whiteSpace=wrap;html=1;top=0;bottom=0;fillColor=none;" value="&lt;span style=&quot;color: rgb(255, 0, 0);&quot;&gt;&lt;b&gt;供应商比例：&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(255, 0, 0);&quot;&gt;&lt;b&gt;梦网：漫道：联麓：壹通道=&lt;font style=&quot;font-size: 14px;&quot;&gt;45:45:5:5&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;5%的流量约22w条，6000元&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="215" x="630" y="370" as="geometry" />
         </mxCell>
-        <mxCell id="5-CPdZpGIfMYbvOq0gj4-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="触发验证码服务" vertex="1">
+        <mxCell id="5-CPdZpGIfMYbvOq0gj4-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" value="触发验证码服务" vertex="1">
           <mxGeometry height="60" width="120" x="794" y="250" as="geometry" />
         </mxCell>
-        <mxCell id="5-CPdZpGIfMYbvOq0gj4-2" parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.67;dx=20;notch=0;" value="" vertex="1">
+        <mxCell id="5-CPdZpGIfMYbvOq0gj4-2" parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.67;dx=20;notch=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="" vertex="1">
           <mxGeometry height="30" width="100" x="694" y="265" as="geometry" />
         </mxCell>
-        <mxCell id="5-CPdZpGIfMYbvOq0gj4-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;rounded=0;" value="正式环境" vertex="1">
+        <mxCell id="5-CPdZpGIfMYbvOq0gj4-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#006EAF;fillColor=#1ba1e2;align=center;verticalAlign=middle;rounded=0;fontColor=#ffffff;" value="正式环境" vertex="1">
           <mxGeometry height="20" width="85" x="696.5" y="220" as="geometry" />
         </mxCell>
         <mxCell id="5-CPdZpGIfMYbvOq0gj4-5" edge="1" parent="1" source="fbcM8jCDt51VoKTFv7-8-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.478;entryY=0.99;entryDx=0;entryDy=0;entryPerimeter=0;" target="5-CPdZpGIfMYbvOq0gj4-3">
