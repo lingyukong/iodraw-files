@@ -25,7 +25,7 @@
         <mxCell id="fbcM8jCDt51VoKTFv7-8-6" parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.67;dx=20;notch=0;" value="" vertex="1">
           <mxGeometry height="30" width="100" x="440" y="265" as="geometry" />
         </mxCell>
-        <mxCell id="fbcM8jCDt51VoKTFv7-8-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#66B2FF;" value="各项目测试环境产生的发送短信流量" vertex="1">
+        <mxCell id="fbcM8jCDt51VoKTFv7-8-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#66B2FF;" value="各项目测试环境产生的短信流量" vertex="1">
           <mxGeometry height="40" width="120" x="320" y="150" as="geometry" />
         </mxCell>
         <mxCell id="fbcM8jCDt51VoKTFv7-8-8" edge="1" parent="1" source="fbcM8jCDt51VoKTFv7-8-7" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#66B2FF;rounded=0;" value="">
@@ -33,7 +33,7 @@
             <mxPoint x="380" y="250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fbcM8jCDt51VoKTFv7-8-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" value="分配正式环境测试流量，需要部分流量验证通道稳定性" vertex="1">
+        <mxCell id="fbcM8jCDt51VoKTFv7-8-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" value="分配少量正式环境流量用于测试验证" vertex="1">
           <mxGeometry height="50" width="130" x="674" y="120" as="geometry" />
         </mxCell>
         <mxCell id="fbcM8jCDt51VoKTFv7-8-10" edge="1" parent="1" source="fbcM8jCDt51VoKTFv7-8-9" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="5-CPdZpGIfMYbvOq0gj4-4" value="">
