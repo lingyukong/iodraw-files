@@ -62,8 +62,8 @@
         <mxCell id="5-CPdZpGIfMYbvOq0gj4-5" edge="1" parent="1" source="fbcM8jCDt51VoKTFv7-8-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.478;entryY=0.99;entryDx=0;entryDy=0;entryPerimeter=0;" target="5-CPdZpGIfMYbvOq0gj4-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5-CPdZpGIfMYbvOq0gj4-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=#808080;fontSize=10;" value="&lt;font&gt;先调整消息比例&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="105" x="581.5" y="310" as="geometry" />
+        <mxCell id="5-CPdZpGIfMYbvOq0gj4-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=#808080;fontSize=10;" value="&lt;font&gt;先灰度发布消息通知服务&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="120" x="574" y="310" as="geometry" />
         </mxCell>
         <mxCell id="5-CPdZpGIfMYbvOq0gj4-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=#808080;fontSize=10;" value="&lt;font&gt;在调整验证码比例&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="105" x="801.5" y="310" as="geometry" />
